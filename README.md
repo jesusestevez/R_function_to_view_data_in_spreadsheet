@@ -1,8 +1,6 @@
 # R function to view data in an Excel spreadsheet
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 Sometimes it becomes a mess when we have to view our data in the RStudio pre-defined viwer. However, the view function
 comes to help us with this task by generating automatically an Excel Spreadsheet (already with the filter option!) that 
