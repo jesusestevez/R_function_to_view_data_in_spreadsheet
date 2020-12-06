@@ -2,7 +2,7 @@
 
 
 
-Sometimes it becomes a mess when we have to view our data in the RStudio pre-defined viwer. However, the view function
+Sometimes it becomes a mess when we have to view our data in the RStudio pre-defined viewer. However, the view function
 comes to help us with this task by generating automatically an Excel Spreadsheet (already with the filter option!) that 
 can help us to organize our data in the best possible way. Let's see the code:
 
